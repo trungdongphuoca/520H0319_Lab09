@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\520H0319_Lab09\\StudentUnitTest\\StudentUnitTest\\StudentUnitTest.csproj",
-      "projectName": "StudentUnitTest",
-      "projectPath": "E:\\520H0319_Lab09\\StudentUnitTest\\StudentUnitTest\\StudentUnitTest.csproj",
+      "projectUniqueName": "E:\\520H0319_Lab09\\StudentUnitTest\\StudentUnitTest\\StudentServiceLib.csproj",
+      "projectName": "StudentServiceLib",
+      "projectPath": "E:\\520H0319_Lab09\\StudentUnitTest\\StudentUnitTest\\StudentServiceLib.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
       "outputPath": "E:\\520H0319_Lab09\\StudentUnitTest\\StudentUnitTest\\obj\\",
       "projectStyle": "PackageReference",

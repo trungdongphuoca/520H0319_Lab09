@@ -1,0 +1,5 @@
+E:\520H0319_Lab09\StudentUnitTest\StudentUnitTest\obj\Debug\net6.0\StudentServiceLib.csproj.AssemblyReference.cache
+E:\520H0319_Lab09\StudentUnitTest\StudentUnitTest\obj\Debug\net6.0\StudentServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\520H0319_Lab09\StudentUnitTest\StudentUnitTest\obj\Debug\net6.0\StudentServiceLib.AssemblyInfoInputs.cache
+E:\520H0319_Lab09\StudentUnitTest\StudentUnitTest\obj\Debug\net6.0\StudentServiceLib.AssemblyInfo.cs
+E:\520H0319_Lab09\StudentUnitTest\StudentUnitTest\obj\Debug\net6.0\StudentServiceLib.csproj.CoreCompileInputs.cache
